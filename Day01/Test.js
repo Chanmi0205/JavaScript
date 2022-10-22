@@ -1,3 +1,2 @@
-console.log("test");
-
 alert("hi");
+console.log("h2");
